@@ -34,7 +34,7 @@ body {
     position: relative;
     border: solid 1px rgb(211,211,211);
     border-radius: 5px;
-    width: 300px;
+    width: 450px;
     height: 80px;
     background-color: rgb(249,249,249);
     box-shadow: 1px 1px 5px rgb(211,211,211); /*h-offset v-offset blur-radius spread-radius color inset;*/
